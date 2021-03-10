@@ -1,4 +1,4 @@
-@charset "UTF-8";
+﻿@charset "UTF-8";
 html {
     overflow: hidden;
     width: 100%;
@@ -137,13 +137,13 @@ body {
 .flip-item-back {
     transform: rotateY(180deg);
     z-index: 1;
-    background-color: #89101b;
-    color: #cca349;
+    background-color: #ffffff;
+    color: #ffffff;
     opacity: 0;
 }
 
 .flip-item-back .flip-item-text {
-    color: #fff;
+    color: #ffffff;
 }
 
 .flip-box.go2 .flip-item-front {
@@ -200,7 +200,7 @@ body {
 .red {
     height: 100%;
     float: left;
-    background-color: #89101b;
+    background-color: #fff;
 }
 
 .red:last-child {
