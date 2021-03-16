@@ -282,9 +282,9 @@ body {
 @media only screen and (max-width: 414px) {
     .txt {
         position: absolute;
-        width: 80%;
+        width: 100%;
         top: 50%;
-        left: 10%;
+        left: 0%;
         /* margin-left: 15%; */
         transform: translate(0, -55%);
     }
